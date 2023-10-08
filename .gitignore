@@ -1,0 +1,20 @@
+# Ignore .env files
+*.env
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore client node_modules (if client is a separate directory)
+client/node_modules/
+
+# Ignore smart contract node_modules (if smart contract is a separate directory)
+smartcontract/node_modules/
+
+# Ignore package-lock.json in client directory
+client/package-lock.json
+
+# Ignore package-lock.json in smartcontract directory
+smartcontract/package-lock.json
