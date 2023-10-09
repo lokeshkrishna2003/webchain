@@ -35,7 +35,7 @@ sendTransaction()
             </h1>
             <p className='text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base'>
                 
-               Explore the Crypto world. Send the Cryptocurrencies easily on Krypto.
+               Explore the Crypto world. Send the Cryptocurrencies easily on Krypt.
             </p>
             {!connectedAccount &&(
             <button type="button" onClick={connectWallet} className='flex flex-row justify-center items-center my-5 bg-[#2952e3] p-3 rounded-full cursor-pointer hover:bg-[#2546bd]'>
