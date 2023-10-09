@@ -27,7 +27,7 @@ lci2022015@iiitl.ac.in
   <div className='sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5'></div>
   <div className='sm:w-[90%] w-full flex justify-between items-center mt-3'>
   <p className='text-white text-sm text-center'>
-@krypt 2022
+@krypt 2023
   </p>
   <p className='text-white text-sm text-center'>
 ALL rights reserved
